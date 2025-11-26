@@ -31,5 +31,3 @@ The website is fully responsive and built using **HTML, CSS, JavaScript**, and h
 - **GitHub Pages**  
 
 ---
-
-## 📂 Folder Structure

@@ -6,7 +6,7 @@ The website is fully responsive and built using **HTML, CSS, JavaScript**, and h
 ---
 
 ## 🚀 Live Demo  
-🔗 **https://your-username.github.io**
+🔗 **https://github.com/vishnumanjula**
 
 (Replace with your actual GitHub Pages link)
 
